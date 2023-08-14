@@ -1,4 +1,4 @@
-module github.com/hankeyyh/simple-rpc-proto
+module github.com/hankeyyh/simpleproto
 
 go 1.19
 

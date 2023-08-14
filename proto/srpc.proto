@@ -1,7 +1,7 @@
 syntax = "proto3";
-package srpc;
+package simpleproto;
 
-option go_package = ".;srpc";
+option go_package = ".;simpleproto";
 
 // 服务选项与方法选项扩展定义
 import "google/protobuf/descriptor.proto";
